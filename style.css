@@ -1,0 +1,211 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+body {
+    background: #eeeef0;
+
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu1 {
+    display: flex;
+    gap: 40px;
+
+    padding-left: 90px;
+
+}
+
+
+.menu2 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+
+.wrap2 {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background: #299AB3;
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+
+
+.box2 {
+
+    color: white;
+    background: #299AB3;
+    width: 486px;
+    height: 470px;
+
+
+
+    h1 {
+        padding-top: 50px;
+        padding-left: 40px;
+        font-size: 30px;
+    }
+
+    p {
+
+        padding-left: 40px;
+        font-size: 24px;
+    }
+
+
+    button {
+        width: 158px;
+        height: 48px;
+        border-radius: 20px;
+        margin-top: 240px;
+        margin-left: 40px;
+    }
+
+
+}
+
+
+.wrap3 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+    padding-bottom: 70px;
+}
+
+
+
+.box3 {
+  
+    p {
+
+        color: gray;
+    }
+
+    .text {
+        color: black;
+        font-size: 24px;
+    }
+
+    .text3 {
+        font-size: 24px;
+    }
+    
+
+
+}
+
+
+.btn {
+    width: 158px;
+    height: 48px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border: none;
+    background: #299AB3;
+ color: white;
+}
+
+
+.wrap4 {
+    background: #F3F2F7;
+    border-radius: 20px;
+    width: max-content;
+
+   
+}
+
+.box33 {
+    padding: 15px;
+}
+
+.section3 {
+    padding-bottom: 150px;
+}
+
+.wrap4 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+}
+
+
+input {
+    width: 274px;
+    border-radius: 20px;
+    border: none;
+    height: 42px;
+    padding-left: 30px;
+    margin-left: 30px;
+}
+
+.box22 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+
+.wrap4 {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background: #299AB3;
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+.box4 {
+    
+    color: white;
+    background: #299AB3;
+    width: 486px;
+    height: 470px;
+
+
+
+    h1 {
+        padding-top: 50px;
+        padding-left: 40px;
+        font-size: 30px;
+    }
+
+    p {
+
+        padding-left: 40px;
+        font-size: 24px;
+    }
+
+
+    button {
+        width: 158px;
+        height: 48px;
+        border-radius: 20px;
+        margin-top: 240px;
+        margin-left: 40px;
+    }
+
+}
